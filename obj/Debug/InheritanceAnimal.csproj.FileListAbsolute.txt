@@ -1,0 +1,6 @@
+F:\ITStep\2 курс\C#\Домашная робота\InheritanceAnimal\bin\Debug\InheritanceAnimal.exe.config
+F:\ITStep\2 курс\C#\Домашная робота\InheritanceAnimal\bin\Debug\InheritanceAnimal.exe
+F:\ITStep\2 курс\C#\Домашная робота\InheritanceAnimal\bin\Debug\InheritanceAnimal.pdb
+F:\ITStep\2 курс\C#\Домашная робота\InheritanceAnimal\obj\Debug\InheritanceAnimal.csprojAssemblyReference.cache
+F:\ITStep\2 курс\C#\Домашная робота\InheritanceAnimal\obj\Debug\InheritanceAnimal.exe
+F:\ITStep\2 курс\C#\Домашная робота\InheritanceAnimal\obj\Debug\InheritanceAnimal.pdb
